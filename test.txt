@@ -1,0 +1,53 @@
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=101968">Barack 
+                            <td nowrap bgcolor="#f7fafd" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=78284">Barack 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25971">John 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25963">Albert 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=53253">William 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25958">William 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25961">Michael 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25972">Walter 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=44909">Jimmy 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25953">Jimmy 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25967">George 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25964">Hubert 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=26467">Lyndon 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25966">John 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75172">Adlai 
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75173">Adlai 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=12962">Harry 
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=16537">Franklin 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=15980">Franklin 
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=15314">Franklin 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75174">Franklin 
+                            <td nowrap bgcolor="#f7fafd" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75571">Al 
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=65393">Woodrow 
+                            <td nowrap bgcolor="#f7fafd" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=117935">Donald J. Trump</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=101966">Mitt Romney</a></td>
+                            <td nowrap bgcolor="#f7fafd" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=78576">John McCain </a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=72727">George W. Bush</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25954">George W. Bush</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25960">Robert Dole</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=21352">George Bush</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25955">George Bush</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=40290">Ronald Reagan</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25970">Ronald Reagan</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=6281">Gerald R. Ford</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=3537">Richard Nixon</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25968">Richard Nixon</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25973">Barry Goldwater</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=25974">Richard Nixon</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=10583">Dwight D. Eisenhower</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75626">Dwight D. Eisenhower </a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75628">Thomas E. Dewey</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75627">Thomas E. Dewey</a></td>
+                            <td nowrap class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=75629">Wendell L. Willkie </a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=23129">Herbert Hoover </a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=23198">Herbert Hoover </a></td>
+                            <td nowrap bgcolor="#FFFFFF" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76198">Warren G. Harding </a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=117924">Charles E. Hughes</a></td>
+                            <td nowrap bgcolor="#FFFFFF" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76222">William Howard Taft </a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76197">William McKinley</a></td>
+                            <td nowrap bgcolor="#FFFFFF" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76067">Benjamin Harrison</a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76068">Benjamin Harrison</a></td>
+                            <td nowrap bgcolor="#FFFFFF" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=76221">James A. Garfield </a></td>
+                            <td nowrap bgcolor="#F7FAFD" class="ver12"><a href="http://www.presidency.ucsb.edu/ws/index.php?pid=88863">Abraham Lincoln </a></td>
