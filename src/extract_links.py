@@ -4,6 +4,7 @@
 from BeautifulSoup import BeautifulSoup
 import urllib2
 import re
+import nltk
 
 # Load web page content as urllib2 object
 html_page=urllib2.urlopen('http://www.presidency.ucsb.edu/nomination.php')
